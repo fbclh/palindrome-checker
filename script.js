@@ -24,3 +24,4 @@ palindrome('eye'); // true
 palindrome('race car'); // true
 palindrome('toyota'); // false
 palindrome('spinach'); // false
+palindrome('0_0 (: /- :) 0-0'); // true

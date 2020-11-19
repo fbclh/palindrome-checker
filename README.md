@@ -1,8 +1,8 @@
-# Palindrome checker
+# Palindrome Checker
 
-freeCodeCamp JavaScript algorithms and data structure project
+freeCodeCamp JavaScript Algorithms and Data Structure project
 
-## Todo
+## To Do
 
 1. Make a UI version
 1. Add screenshot

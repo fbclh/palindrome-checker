@@ -1,9 +1,8 @@
-/**
- * Palindrome checker
- * Return true if the given string is a palindrome. Otherwise, return false.
- * A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
- */
-
+//  Palindrome checker
+//  Return true if the given string is a palindrome. Otherwise, return false.
+//  A palindrome is a word or sentence that's spelled the same way both forward 
+// and backward, ignoring punctuation, case, and spacing.
+ 
 function palindrome(str) {
   if (
     str
@@ -20,8 +19,8 @@ function palindrome(str) {
   }
 }
 
-palindrome('eye'); // true
-palindrome('race car'); // true
-palindrome('toyota'); // false
-palindrome('spinach'); // false
-palindrome('0_0 (: /- :) 0-0'); // true
+console.log(palindrome('eye')); // true
+console.log(palindrome('race car')); // true
+console.log(palindrome('toyota')); // false
+console.log(palindrome('spinach')); // false
+console.log(palindrome('0_0 (: /- :) 0-0')); // true

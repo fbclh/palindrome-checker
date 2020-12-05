@@ -1,4 +1,4 @@
-//  Palindrome Checker
+// Palindrome Checker
 const palindrome = (str) => {
   return str
     .split('')
